@@ -227,6 +227,7 @@ class Home extends Component {
     return eq
   };
 
+  // simple render
   render() {
     return (
       <div>
